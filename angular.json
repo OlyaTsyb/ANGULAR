@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ANGULAR"
+  "defaultProject": "ANGULAR",
+  "cli": {
+    "analytics": "2cadadf4-9f5d-4b7e-a375-efca0f248154"
+  }
 }
